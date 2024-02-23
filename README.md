@@ -21,3 +21,15 @@ This project is best viewed on [google colab](https://colab.research.google.com/
 This project is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
 #### c. Resonant Gain Filter
 This project is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
+
+---
+### 3. Modeling Closed and Open Loop Gain of an OpAmp(WIP)
+
+In order to gain a better understanding of OpAmps, I am testing the "test plots" in the opamp(AD829)'s data sheet in order to confirm it is working as expected.
+
+This project was used as an introduction to RLC circuits and Bode Plots. This project is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
+
+---
+### 4. Creating a Noise Budget for a "Anti-Boost" filter(WIP)
+
+Work in Progress.
