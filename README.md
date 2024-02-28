@@ -27,6 +27,6 @@ In order to gain a better understanding of OpAmps, I am testing the "test plots"
 Work in Progress.
 
 ---
-### 4. Creating a Noise Budget for a "Anti-Boost" filter(WIP)
+### 4. Modeling the Transfer Function and Noise of an "Anti-Boost" Fitler(WIP)
 
 Work in Progress.
