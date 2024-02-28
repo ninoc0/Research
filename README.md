@@ -16,7 +16,7 @@ This project was used as an introduction to RLC circuits and Bode Plots. This pr
 Following up from my first project, I continued on to build these circuits and get experimental data. I curve fit all of this data and included the relevant math. 
 
 #### a. Notch Filter
-This project is best viewed on [google colab](https://colab.research.google.com/drive/1UFAMsyhJSSb3wZScNtpznP1l0Dc1n4vJ?usp=sharing). 
+This project can be viewed [here](https://github.com/ninoc0/Research/blob/main/NotchFilterCurveFit.ipynb) but is best viewed on [google colab](https://colab.research.google.com/drive/1UFAMsyhJSSb3wZScNtpznP1l0Dc1n4vJ?usp=sharing). 
 #### b. High Pass Filter
 This project is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
 #### c. Resonant Gain Filter
