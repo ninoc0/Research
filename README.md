@@ -13,14 +13,12 @@ This project was used as an introduction to RLC circuits and Bode Plots. This pr
 ---
 ### 2. Curve Fit of Various Circuits
 
-Following up from my first project, I continued on to build these circuits and get experimental data. I curve fit all of this data and included the relevant math. 
+Following up from my first project, I continued on to build these circuits and get experimental data. I curve fit all of this data and included the relevant math. For my best curve fitting work, take a look at the resonant gain filter which also includes residuals plots.
 
 #### a. Notch Filter
 This project can be viewed [here](https://github.com/ninoc0/Research/blob/main/NotchFilterCurveFit.ipynb) but is best viewed on [google colab](https://colab.research.google.com/drive/1UFAMsyhJSSb3wZScNtpznP1l0Dc1n4vJ?usp=sharing). 
-#### b. High Pass Filter
-This project is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
-#### c. Resonant Gain Filter
-This project is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
+#### b. Resonant Gain Filter
+This project can be viewed [here](https://github.com/ninoc0/Research/blob/main/ResonantGainCurveFit.ipynb) but is best viewed on [google colab](https://colab.research.google.com/drive/19s_acidpXYDxL5-ce814OGwJFblJnKRb?usp=sharing). 
 
 ---
 ### 3. Modeling Closed and Open Loop Gain of an OpAmp(WIP)
