@@ -8,7 +8,7 @@ More information on the research group can be found [here](https://gravitational
 ---
 ### 1. Bode Plots of a series RLC Circuit
 
-This project was used as an introduction to RLC circuits and Bode Plots. This project is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
+This project was used as an introduction to RLC circuits and Bode Plots. This project can be viewed [here](https://github.com/ninoc0/Research/blob/main/Bode_Plots_of_RLC_Circuit.ipynb) but is best viewed on [google colab](https://colab.research.google.com/drive/1oH9CbiHUOjwKHZz1htCmLJlPnEDvaZry?usp=sharing). 
 
 ---
 ### 2. Curve Fit of Various Circuits
