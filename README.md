@@ -23,6 +23,8 @@ This project can be viewed [here](https://github.com/ninoc0/Research/blob/main/R
 ---
 ### 3. Modeling the Transfer Function and Noise of an "Anti-Boost" Fitler(WIP)
 
+This project can be viewed [here](https://github.com/ninoc0/Research/blob/main/antiboost.py).
+
 As part of the Common Path of the Frequency Stabilization Servo, the Anti-Boost serves to reduce the amplitude of low-frequency signals. The code here using a python library Zero to model the expected output and takes in the experimental data to graph them together. It also creates residuals plots in order to see how much they differ and where the points of inaccuracy exist. This code is versatile and can be used for other circuits as well.
 
 To view my poster on this subject, look here!
