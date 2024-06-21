@@ -32,7 +32,13 @@ To view my poster on this subject, look [here](https://github.com/ninoc0/Researc
 The noise is a work in progress!
 
 ---
-### 4. Modeling Closed and Open Loop Gain of an OpAmp(WIP)
+### 4. Creating a fitting function in PyZero
+
+This project can be viewed [here](https://github.com/ninoc0/zero).
+
+PyZero is an exisiting circuit modeling library in python that I added fitting functionality to. 
+--
+### 5. Modeling Closed and Open Loop Gain of an OpAmp(WIP)
 
 In order to gain a better understanding of OpAmps, I am testing the "test plots" in the opamp(AD829)'s data sheet in order to confirm it is working as expected.
 Work in Progress.
